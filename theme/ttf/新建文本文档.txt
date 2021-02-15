@@ -1,0 +1,6 @@
+//func init() {
+//	os.Setenv("FYNE_FONT", "C:\\windows\\Fonts\\simfang.ttf")
+//}
+//$ fyne bundle mplus-1c-regular.ttf > bundle.go
+
+//$ fyne bundle -append mplus-1c-bold.ttf >> bundle.go

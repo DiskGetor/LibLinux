@@ -1,0 +1,21 @@
+2021-02-16 01:00:51 [ERRO]                             | ReferenceError: jjh is not defined at <eval>:1:1(0)
+goroutine 19 [running]:
+runtime/debug.Stack(0xc000174000, 0x0, 0x0)
+	/usr/lib/go/src/runtime/debug/stack.go:24 +0x9f
+github.com/DiskGetor/liblinux/log.(*ObjLog).writeLogFile(0xc000174000)
+	/home/ddk/桌面/liblinux/log/Log.go:196 +0x1ad
+github.com/DiskGetor/liblinux/log.(*ObjLog).do(0xc000174000)
+	/home/ddk/桌面/liblinux/log/Log.go:137 +0x46
+github.com/DiskGetor/liblinux/log.(*ObjLog).LogError(0xc000174000, 0xc0001b3ef8, 0x1, 0x1)
+	/home/ddk/桌面/liblinux/log/Log.go:102 +0xfc
+github.com/DiskGetor/liblinux/errcheck.ObjErrCheck.CheckErr(...)
+	/home/ddk/桌面/liblinux/errcheck/BugfixCheckErr.go:23
+github.com/DiskGetor/liblinux/js.(*ObjJs).JsRun(0xc000117860, 0x94cde2, 0x3, 0x10d3470f)
+	/home/ddk/桌面/liblinux/js/js.go:34 +0x166
+github.com/DiskGetor/liblinux/js.TestInterfaceJs(0xc000106600)
+	/home/ddk/桌面/liblinux/js/js_test.go:11 +0x65
+testing.tRunner(0xc000106600, 0x972e98)
+	/usr/lib/go/src/testing/testing.go:1123 +0xef
+created by testing.(*T).Run
+	/usr/lib/go/src/testing/testing.go:1168 +0x2b3
+

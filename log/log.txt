@@ -1,0 +1,70 @@
+2021-02-16 00:57:58 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 00:57:58 [HEXV]                   hex value | 2184
+2021-02-16 00:57:58 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 00:57:58 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 00:57:58 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 00:57:58 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 00:57:58 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 00:57:58 [SUCC]                     Success | vgoTest pass
+2021-02-16 01:10:09 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 01:10:09 [HEXV]                   hex value | 2184
+2021-02-16 01:10:09 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 01:10:09 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 01:10:09 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 01:10:09 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 01:10:09 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 01:10:09 [SUCC]                     Success | vgoTest pass
+2021-02-16 01:12:50 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 01:12:50 [HEXV]                   hex value | 2184
+2021-02-16 01:12:50 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 01:12:50 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 01:12:50 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 01:12:50 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 01:12:50 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 01:12:50 [SUCC]                     Success | vgoTest pass
+2021-02-16 01:14:25 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 01:14:25 [HEXV]                   hex value | 2184
+2021-02-16 01:14:25 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 01:14:25 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 01:14:25 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 01:14:25 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 01:14:25 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 01:14:25 [SUCC]                     Success | vgoTest pass
+2021-02-16 01:14:52 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 01:14:52 [HEXV]                   hex value | 2184
+2021-02-16 01:14:52 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 01:14:52 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 01:14:52 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 01:14:52 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 01:14:52 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 01:14:52 [SUCC]                     Success | vgoTest pass
+2021-02-16 01:15:28 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 01:15:28 [HEXV]                   hex value | 2184
+2021-02-16 01:15:28 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 01:15:28 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 01:15:28 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 01:15:28 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 01:15:28 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 01:15:28 [SUCC]                     Success | vgoTest pass
+2021-02-16 01:16:24 [HEXV]firstEnd xor 0x72B8,机器码还有一个字节是丢弃的 | 29368
+2021-02-16 01:16:24 [HEXV]                   hex value | 2184
+2021-02-16 01:16:24 [DUMP]                         buf | 
+00000000  11 22 33 44                                       |."3D|
+
+2021-02-16 01:16:24 [STRC]                             | struct { a int; b string; c []uint8 }{a:89, b:"jhjsbdd", c:[]uint8{0x11, 0x22, 0x33, 0x44}}
+2021-02-16 01:16:24 [INFO]                  infomation | tttttttttttttttttttttttt
+2021-02-16 01:16:24 [TRAC]                       trace | kkkkkkkkkkkkkkkkkkkk
+2021-02-16 01:16:24 [WARN]                    warnning | mmmmmmmmm
+2021-02-16 01:16:24 [SUCC]                     Success | vgoTest pass

@@ -1,0 +1,15 @@
+
+// golang安装gitee插件并登录，位于设置-->版本控制
+// ssh-keygen -t rsa
+// /home/ddk/.ssh/id_rsa.pub 粘贴到下面的这个网址添加公钥
+// https://gitee.com/profile/sshkeys
+// ssh git@gitee.com
+// 首次使用需要确认并添加主机到本机SSH可信列表 /home/ddk/.gitconfig
+//验证信任列表
+//ssh -T git@gitee.com
+//强制使用ssh get
+//git config --global url."git@gitee.com:".insteadOf "https://gitee.com/"
+// export GOPROXY=https://goproxy.cn
+// export GOPRIVATE=gitee.com
+
+//go clean --modcache
